@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=GiorgosIlia)
 
 # Hello, World! 👋
 
@@ -44,6 +43,6 @@ Welcome to my GitHub profile! I'm Giorgos, a passionate software developer with 
 
 📫 Want to get in touch? Feel free to reach out via email @ george.ilia33@gmail.com .
 
-🌐 Visit my personal website: [Comming soon]
+🌐 Visit my personal website: giorgosiresume.com
 
 Thanks for stopping by! Explore my work, share your thoughts, and let's create amazing things together! 😄
