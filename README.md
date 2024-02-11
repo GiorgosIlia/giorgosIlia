@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm Giorgos, a passionate software developer with 
   
 <div style="display: flex; align-items: flex-start;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr1GnlJsnINTMyTZgxmia1oqclQWphdpXcT90jc_ZjAg&s" alt="icon" width="61" height="61" />
-    <img src="https://camo.githubusercontent.com/d5018e8d6194afbc0a7874bf55df5e7b0111f8abe4e622ae2200b124e33d6fe2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="icon" width="61" height="61" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" alt="icon" width="61" height="61" />
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jenkins-icon.png" alt="icon" width="61" height="61" />
 </div>
